@@ -1,8 +1,5 @@
 title:            Ηａϲｋеｒｓ４Ϝｕｎ ᏟᎢＦ Τеａⅿ
-description:      Proyecto con objeto del fomento de la seguridad en
-el ámbito virtual proporcionando conocimientos básicos orientativos a futuros
-expertos en ciberseguridad. A través de la propuesta de retos CTF y pildoras de
-conocimiento.
+description:      Proyecto con objeto del fomento de la seguridad en el ámbito virtual proporcionando conocimientos básicos orientativos a futuros expertos en ciberseguridad. A través de la propuesta de retos CTF y pildoras de conocimiento.
 disqus_shortname:
 reading_time:     true
 words_per_minute: 200
@@ -14,10 +11,7 @@ url:               https://hackers4f.github.io
 owner:
   name:           Hackers4f
   avatar:         logo.png
-  bio:            "Proyecto con objeto del fomento seguridad en
-  el ámbito virtual proporcionando conocimientos básicos orientativos a futuros
-  expertos en ciberseguridad. A través de la propuesta de retos CTF y pildoras de
-  conocimiento."
+  bio:            "Proyecto con objeto del fomento seguridad en el ámbito virtual proporcionando conocimientos básicos orientativos a futuros expertos en ciberseguridad. A través de la propuesta de retos CTF y pildoras de conocimiento."
   email:          hackers4functfteam@gmail.comm
   # Social networking links used in footer. Update and remove as you like.
   twitter:        H4ck3rs4FunCTF
