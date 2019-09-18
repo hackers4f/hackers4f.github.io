@@ -63,7 +63,7 @@ kramdown:
   enable_coderay: false
 
 include:
-  - .htaccess
+  - "_pages"
 exclude:
   - "*.less"
   - "*.sublime-project"
