@@ -9,17 +9,17 @@ url:               https://hackers4f.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Hackers4f
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  email:          hackers4functfteam@gmail.comm
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
-  github:
+  twitter:        H4ck3rs4FunCTF
+  facebook:       H4ck3rs4FunCTF
+  github:         hackers4f
   stackexchange:
   linkedin:
-  instagram:
+  instagram:      H4ck3rs4FunCTF
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
