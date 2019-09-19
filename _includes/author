@@ -1,0 +1,19 @@
+{% assign type = include.type %}
+
+{% if layout==page %}
+	<br><br>
+{% endif %}
+
+{% if post.author != "anonymous" %}
+<a href="{{ author.web }}">
+<img src="{{ author.avatar }}"
+{% else %}
+<a href="https://hackers4f.github.io/">
+<img src="/images/authors/hackers4f.png"
+{% endif %}"
+
+{% if layout==post %}
+	alt="avatar" width="50" height="50"></a>&nbsp&nbsp
+{% else %}
+	alt="avatar" width="100" height="100"></a>&nbsp&nbsp
+{% endif %}
