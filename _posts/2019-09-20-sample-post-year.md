@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+description: "Hello World."
 modified: 2019-09-20
 tags: [ejemplo]
 ---
