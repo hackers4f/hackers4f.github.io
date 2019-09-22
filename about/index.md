@@ -37,7 +37,7 @@ From 2nd semester 2019, we aim to encourage:
 
 - Social and educational integration.
 - Knowledge and techniques of Ethical Hacking.
-- Participation in CTFs / Congresses.
+- Participation in CTFs / CONs.
 - Build a safe cyberspace.
 - Cyber ​​education freely.
 
