@@ -6,8 +6,8 @@ modified: 2019-09-21
 description: "Información sobre Hackers4Fun / Information about Hackers4Fun"
 image:
   feature: banners/header.jpg
-timing: true
 ---
+
 **Hackers4Fun CTF Team** [#Hackers4Fun](https://twitter.com/hashtag/hackers4fun) [#H4F](https://twitter.com/hashtag/H4F), también conocido como **Hackers for Fun**, es un proyecto sin ánimo de lucro que tiene la intención de llegar a personas interesadas en compartir sobre temas:
 
 - [Seguridad informática](https://es.wikipedia.org/wiki/Seguridad_inform%C3%A1tica)
@@ -27,6 +27,7 @@ Este proyecto se basa en los ideales de la [EFF](https://www.eff.org) sobre la i
 Si necesitas más información puedes escribirnos por correo electrónico a **hackers4functfteam_at_gmail_dot_com**
 
 ---
+
 **Hackers4Fun CTF Team** [#Hackers4Fun](https://twitter.com/hashtag/hackers4fun) [#H4F](https://twitter.com/hashtag/H4F), a.k.a. **Hackers for Fun**, is a non-profit project that intends to reach people interested in sharing on topics:
 
 - [Computer Security](https://en.wikipedia.org/wiki/Computer_security)
