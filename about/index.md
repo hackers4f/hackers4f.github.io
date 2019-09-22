@@ -29,11 +29,11 @@ Si necesitas más información puedes escribirnos por correo electrónico a **ha
 ---
 **Hackers4Fun CTF Team** [#Hackers4Fun](https://twitter.com/hashtag/hackers4fun) [#H4F](https://twitter.com/hashtag/H4F), a.k.a. **Hackers for Fun**, is a non-profit project that intends to reach people interested in sharing on topics:
 
-- [Computer Security] (https://en.wikipedia.org/wiki/Computer_security)
-- [Capture The Flag or CTF] (https://en.wikipedia.org/wiki/Wargame_(hacking))
-- [Ethical Hacking] (https://en.wikipedia.org/wiki/White_hat_(computer_security))
+- [Computer Security](https://en.wikipedia.org/wiki/Computer_security)
+- [Capture The Flag or CTF](https://en.wikipedia.org/wiki/Wargame_(hacking))
+- [Ethical Hacking](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 
-From this 2nd semester 2019, we aim to encourage:
+From 2nd semester 2019, we aim to encourage:
 
 - Social and educational integration.
 - Knowledge and techniques of Ethical Hacking.
